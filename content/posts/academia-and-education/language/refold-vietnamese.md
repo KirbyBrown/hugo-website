@@ -32,6 +32,11 @@ Related:
 
 #### 1A: Tools and Habits
 
+[Langiri](https://langiri.com/languages/vi/videos)
+  - Videos for all levels from introductory through advanced
+  - Filterable by Northern or Southern dialect
+  - Sortable by difficulty 
+
 ##### A1: Active Immersion
 
 - [ ] YouTube
